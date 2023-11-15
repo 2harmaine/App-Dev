@@ -1,6 +1,6 @@
 # App-Dev
 My first repository
-# H1
+# Favorite Series
 - Twinkiling Watermelon
 - Our Beloved Summer
 - Gilmore Girls
